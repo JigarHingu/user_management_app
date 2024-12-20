@@ -22,7 +22,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/JigarHingu/user_management_ap
+git clone https://github.com/JigarHingu/user_management_app
 cd frontend
 ```
 
