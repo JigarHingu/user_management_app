@@ -22,7 +22,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-usernameUserManagementApp.git
+git clone https://github.com/JigarHingu/user_management_ap
 cd frontend
 ```
 
@@ -245,37 +245,37 @@ The MongoDB database includes a `User` collection with the following fields:
 ## Screenshots
 
 ### Registration Page
-![Registration Page](./public/screenshots/Registration.png)
+![Registration Page](./frontend/public/screenshots/Registration.png)
 
 ---
 
 ### Login Page
-![Login Page](./public//screenshots/Login.png)
+![Login Page](./frontend/public/screenshots/Login.png)
 
 ---
 
 ### Profile Page
-![Profile Page](./public//screenshots/Profile.png)
+![Profile Page](./frontend/public/screenshots/Profile.png)
 
 ---
 
 ### Profile Edit Page
-![Profile Edit Page](./public//screenshots//Edit-Profile.png)
+![Profile Edit Page](./frontend/public/screenshots/Edit-Profile.png)
 
 ---
 
 ### Success Page
-![Success Page](./public//screenshots/Success.png)
+![Success Page](./frontend/public/screenshots/Success.png)
 
 ---
 
 ### Database Page
-![Database Page](./public//screenshots/Database.png)
+![Database Page](./frontend/public/screenshots/Database.png)
 
 ---
 
 ### Backend Page
-![Backend Page](./public//screenshots/Backend.png)
+![Backend Page](./frontend/public/screenshots/Backend.png)
 
 ---
 
