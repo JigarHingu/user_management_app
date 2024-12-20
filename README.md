@@ -133,6 +133,8 @@ The app interacts with the following endpoints:
 
 The backend API for this project is built using Node.js and Express, with MongoDB as the database. It handles authentication, data validation, and CRUD operations for user profiles.
 
+- Live = https://user-management-backend-lemon.vercel.app/
+
 ### Key Features:
 - Secure JWT-based authentication.
 - Password hashing using bcrypt.
