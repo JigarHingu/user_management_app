@@ -9,7 +9,11 @@ dotenv.config();
 const app = express();
 
 // Middlewares
-app.use(cors());
+// app.use(cors());
+app.use(cors({
+  origin: "https://JigarHingu.github.io/user_management_app",
+  credentials: true,
+}));
 app.use(bodyParser.json());
 
 // Routes
